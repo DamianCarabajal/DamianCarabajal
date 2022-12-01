@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Damián Carabajal</h1>
 <h3 align="center">A passionate FrontEnd developer from Chubut, Argentina.</h3>
 
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=damiancarabajal&label=Profile%20views&color=0e75b6&style=flat" alt="damiancarabajal" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damiancarabajal" alt="damiancarabajal" /></a> </p>
+
+
+</br>
+</br>
 
 - 🌱 I’m currently learning **BackEnd and Data Analytics**
 
 - 💬 Ask me about **Front End, Electronic and technology**
 
 - 📫 How to reach me **Damiiann95@gmail.com**
+
+</br>
+</br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -36,10 +45,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damiancarabajal&show_icons=true&locale=en&layout=compact" alt="damiancarabajal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damiancarabajal&show_icons=true&locale=en" alt="damiancarabajal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damiancarabajal&" alt="damiancarabajal" /></p>
-
-
+&nbsp;
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=damiancarabajal&show_icons=true&locale=en" alt="GitStats" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=damiancarabajal&" alt="Score" />
+</p>
+</br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiancarabajal&show_icons=true&locale=en&layout=compact" alt="Languages" /></p>
+</br>
