@@ -10,8 +10,9 @@
 
 </br>
 </br>
+- 👨‍🎓 I’m Electronic Engineering Student 👨‍🔬
 
-- 🌱 I’m currently learning **BackEnd and Data Analytics**
+- 🌱 Currently learning **BackEnd and Data Analytics**
 
 - 💬 Ask me about **Front End, Electronic and technology**
 
