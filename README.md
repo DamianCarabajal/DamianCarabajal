@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damián Carabajal</h1>
 <h3 align="center">A passionate FrontEnd developer from Chubut, Argentina.</h3>
 
+![DALL·E perroprogramador](https://user-images.githubusercontent.com/93550814/205212006-625068fc-ca98-4a55-af2a-71488beec0f8.png)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=damiancarabajal&label=Profile%20views&color=0e75b6&style=flat" alt="damiancarabajal" /> </p>
